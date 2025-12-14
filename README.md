@@ -29,9 +29,3 @@ https://hmahmd.github.io/purpleboost
 - CSS3  
 
 ---
-
-## Setup
-
-```bash
-git clone https://github.com/hmahmd/purpleboost.git
-cd purpleboost
