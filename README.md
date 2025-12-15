@@ -9,7 +9,7 @@ A clean, modern **Digital Marketing Landing Page** built with **pure HTML5 & CSS
 Focused on performance, responsiveness, and professional UI — no frameworks, no JavaScript.
 
 **Live Demo**  
-https://hmahmd.github.io/purpleboost
+https://hmahmd.github.io/PurpleBoost
 
 ---
 
